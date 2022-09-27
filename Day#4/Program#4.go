@@ -1,4 +1,4 @@
-// Fibonacci Series
+// Fibonacci Series without recursion
 package main
 
 import "fmt"
